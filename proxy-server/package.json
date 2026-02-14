@@ -1,0 +1,17 @@
+
+{
+  "name": "astra-stealth-proxy",
+  "version": "1.0.0",
+  "description": "Custom Astra Reverse Proxy for Stealth Browsing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6",
+    "morgan": "^1.10.0",
+    "zlib": "^1.0.5",
+    "cookie-parser": "^1.4.6"
+  }
+}

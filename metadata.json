@@ -1,0 +1,8 @@
+{
+  "name": "Astra Games",
+  "description": "A web gaming portal for unblocked games featuring AI-powered discovery and fast performance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
